@@ -2,6 +2,7 @@
 title: leetcode-395
 date: 2022-05-20 02:38:27
 tags:
+mathjax: true
 ---
 
 ### 题目描述
