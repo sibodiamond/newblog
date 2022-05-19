@@ -589,6 +589,11 @@
   dependencies:
     "ejs" "^1.0.0"
 
+"hexo-renderer-pandoc@^0.3.1":
+  "integrity" "sha512-ZTUzLkJHFA6OCzk37xR9PWYydLwuv4qV7iJMe5p88gxiIo3d1M/dOwsIXEra/olcA/y9UKw57qASCby1NseNsw=="
+  "resolved" "https://registry.npmjs.org/hexo-renderer-pandoc/-/hexo-renderer-pandoc-0.3.1.tgz"
+  "version" "0.3.1"
+
 "hexo-renderer-stylus@^2.0.1":
   "integrity" "sha512-1S4AG8RtzWqVrqKIYv2AJ4UYms5SHDjkdYS7IiGwgUejL24agbTktpAbnH2cG1JWZ15SRqYN0UGB9aAoSAgvEA=="
   "resolved" "https://registry.npmjs.org/hexo-renderer-stylus/-/hexo-renderer-stylus-2.0.1.tgz"
